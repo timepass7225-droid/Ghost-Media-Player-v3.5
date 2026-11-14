@@ -7,18 +7,6 @@
 Windows · Linux · Browser · Android (Capacitor)
 
 `Free` · `No accounts` · `No ads` · `No telemetry` · `MIT licensed`
-<img width="1366" height="768" alt="Screenshot_2026-11-12_14-21-55" src="https://github.com/user-attachments/assets/a98d9b2e-fbc7-4523-bc50-7d534c99916a" />
-<img width="1366" height="768" alt="Screenshot_2026-11-12_14-21-43" src="https://github.com/user-attachments/assets/64e89dad-9b9f-4d7b-ab55-a40dc31b2cca" />
-<img width="1366" height="768" alt="Screenshot_2026-11-14_14-22-53" src="https://github.com/user-attachments/assets/50c1017d-8157-482c-a916-6862bd33d3bd" />
-<img width="1366" height="768" alt="Screenshot_2026-11-12_14-59-09" src="https://github.com/user-attachments/assets/0813c6b4-face-4826-8dbb-70692dc5731e" />
-<img width="1366" height="768" alt="Screenshot_2026-11-12_14-54-31" src="https://github.com/user-attachments/assets/d76d81d5-46ff-4e97-829c-403928691020" />
-<img width="1366" height="768" alt="Screenshot_2026-11-12_14-49-21" src="https://github.com/user-attachments/assets/b4738196-4bc9-42c3-84fc-5d0b90bd60a0" />
-<img width="1366" height="768" alt="Screenshot_2026-11-12_14-22-16" src="https://github.com/user-attachments/assets/85bc9b0b-7ee1-4365-b6db-73a80467d5d1" />
-<img width="1366" height="768" alt="Screenshot_2026-11-12_14-21-31" src="https://github.com/user-attachments/assets/15075aee-c151-43a0-8790-f7720f46baaf" />
-<img width="1366" height="768" alt="Screenshot_2026-11-12_14-21-21" src="https://github.com/user-attachments/assets/2f78a0fd-cb11-46a6-b942-15f0f4b0f6d0" />
-<img width="1366" height="768" alt="Screenshot_2026-11-12_14-21-01" src="https://github.com/user-attachments/assets/3b8243c7-4d3e-4453-aae1-8dcf8ad80ba6" />
-<img width="1366" height="768" alt="Screenshot_2026-11-12_14-20-12" src="https://github.com/user-attachments/assets/d29c76e8-b168-4fc6-a3bb-dc4557931259" />
-<img width="1366" height="768" alt="Screenshot_2026-11-12_14-19-03" src="https://github.com/user-attachments/assets/c1b24cc2-3f6f-47f0-b454-77f16b56fcbe" />
 
 </div>
 
@@ -29,8 +17,20 @@ Ghost Media Player plays your videos, songs, images and GIFs, and then goes much
 Everything runs from one shared HTML/CSS/JavaScript core (`www/`). No cloud, no sign-up, no paid API.
 
 <p align="center">
-  <img src="docs/screenshots/themes.png" width="49%" alt="Themes panel with live previews" />
-  <img src="docs/screenshots/dj-mode.png" width="49%" alt="DJ Mode with two decks and a crossfader" />
+
+
+<img width="1366" height="768" alt="Screenshot_2026-11-14_14-22-53" src="https://github.com/user-attachments/assets/c51f615a-d573-4c1e-ba0b-b244e8be68fb" />
+<img width="1366" height="768" alt="Screenshot_2026-11-12_14-59-09" src="https://github.com/user-attachments/assets/46a9fc34-940f-4ed8-bbda-0b3843651e46" />
+<img width="1366" height="768" alt="Screenshot_2026-11-12_14-54-31" src="https://github.com/user-attachments/assets/ad111046-a1eb-41c3-9908-da70a94de4fc" />
+<img width="1366" height="768" alt="Screenshot_2026-11-12_14-49-21" src="https://github.com/user-attachments/assets/766c2a80-a644-44a5-a28a-254770fa61dc" />
+<img width="1366" height="768" alt="Screenshot_2026-11-12_14-22-16" src="https://github.com/user-attachments/assets/af7326a3-9c5d-47dc-bff2-1e413e5a7421" />
+<img width="1366" height="768" alt="Screenshot_2026-11-12_14-21-31" src="https://github.com/user-attachments/assets/c7b604af-e07b-49fa-8823-73d5d484e4f1" />
+<img width="1366" height="768" alt="Screenshot_2026-11-12_14-21-21" src="https://github.com/user-attachments/assets/2cd6c27b-f48d-4690-96de-8309f844a493" />
+<img width="1366" height="768" alt="Screenshot_2026-11-12_14-21-01" src="https://github.com/user-attachments/assets/74698dce-7a01-45c6-9bb3-5c3382417c85" />
+<img width="1366" height="768" alt="Screenshot_2026-11-12_14-20-12" src="https://github.com/user-attachments/assets/942542a1-ad2a-4f91-9886-7720fca5a139" />
+<img width="1366" height="768" alt="Screenshot_2026-11-12_14-19-03" src="https://github.com/user-attachments/assets/e13a9131-c72c-43e4-a0d7-53d5c28bad4f" />
+<img width="1366" height="768" alt="Screenshot_2026-11-12_14-21-55" src="https://github.com/user-attachments/assets/beac67ae-f216-4bf5-9fb4-10a3017faf3e" />
+<img width="1366" height="768" alt="Screenshot_2026-11-12_14-21-43" src="https://github.com/user-attachments/assets/a6a625cb-3b2b-4140-a6d5-ddb304c6d192" />
 </p>
 
 ## Contents
