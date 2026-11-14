@@ -7,7 +7,18 @@
 Windows · Linux · Browser · Android (Capacitor)
 
 `Free` · `No accounts` · `No ads` · `No telemetry` · `MIT licensed`
-
+Screenshot_2026-11-12_14-19-03.png
+Screenshot_2026-11-12_14-20-12.png
+Screenshot_2026-11-12_14-21-01.png
+Screenshot_2026-11-12_14-21-21.png
+Screenshot_2026-11-12_14-21-31.png
+Screenshot_2026-11-12_14-21-43.png
+Screenshot_2026-11-12_14-21-55.png
+Screenshot_2026-11-12_14-22-16.png
+Screenshot_2026-11-12_14-49-21.png
+Screenshot_2026-11-12_14-54-31.png
+Screenshot_2026-11-12_14-59-09.png
+Screenshot_2026-11-14_14-22-53.png
 </div>
 
 ---
